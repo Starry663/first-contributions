@@ -1170,6 +1170,7 @@
 - [Hemant](https://github.com/hemant187)
 - [Pradip Borade](https://github.com/pradipborade911)
 - [Sandeep Dewangan](https://github.com/sandy15d)
+- [王羿博](https://github.com/Starry663)
 - [Jess Lane](https://github.com/jesslane94)
 - [Osman](https://github.com/Osmansiddiquer)
 - [Om Biradar](https://github.com/OmBiradar)
